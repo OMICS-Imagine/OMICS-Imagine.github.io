@@ -1,0 +1,33 @@
+title: Emilia Puig Lombardi
+position: Head of Multi-Omics Analytics
+affiliation: Institut Imagine
+affiliation_link: https://www.institutimagine.org/en
+email: me.puig-lombardi@institutimagine.org
+
+keywords: bioinformatics, multi-omics, computational biology, genomics, spatial transcriptomics, Institut Imagine
+description: >
+  Emilia Puig Lombardi leads Multi-Omics Analytics in the Bioinformatics Hub
+  at Institut Imagine, Paris.
+canonical: https://omics-imagine.github.io/
+
+github_link: https://github.com/OMICShub-Imagine/
+orcid: https://orcid.org/0000-0001-6387-8740
+scopus: https://www.scopus.com/authid/detail.uri?authorId=57205727069
+institute: https://www.institutimagine.org/en
+
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon.png
+
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif"
+
+remote_theme: yaoyao-liu/minimal-light
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
